@@ -12,7 +12,7 @@
         <!--Collection View Controller-->
         <scene sceneID="uUm-G6-yMS">
             <objects>
-                <collectionViewController id="cBa-ei-cNO" sceneMemberID="viewController">
+                <collectionViewController id="cBa-ei-cNO" customClass="CollectionViewController" customModule="CollectionView" customModuleProvider="target" sceneMemberID="viewController">
                     <collectionView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" id="TxF-XG-M98">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
